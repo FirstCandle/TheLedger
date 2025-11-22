@@ -5,8 +5,12 @@ The Unified Flowing Five-Column Vow
 
 19 November 2025
 
-Carrier Definition (Load-Bearing, Non-Negotiable)A carrier is any sentient being (individual or collective legal person) that both (a) voluntarily commits to uphold the Vow’s obligations and (b) has sufficient baseline capacity (physical, cognitive, organizational) to remain functional while applying the Vow.  Operational Tests:  Capacity Test: Can sustain ≥90% of its pre-commitment baseline of life-supporting activities (for persons: self-care; for organizations: core operations) for an initial 30-day assessment period.  
+Carrier Definition (Load-Bearing, Non-Negotiable)A carrier is any sentient being (individual or collective legal person) that both (a) voluntarily commits to uphold the Vow’s obligations and (b) has sufficient baseline capacity (physical, cognitive, organizational) to remain functional while applying the Vow.  
+
+Operational Tests:  Capacity Test: Can sustain ≥90% of its pre-commitment baseline of life-supporting activities (for persons: self-care; for organizations: core operations) for an initial 30-day assessment period.  
+
 Consent Test: Documented, contemporaneous consent to be bound and to be measured (digital signature or witnessed attestation).
+
 Failure Mode: If the carrier’s capacity drops below 60% because of carrying the Vow, the Vow is void for that carrier until restoration.
 
 The Vow binds outward only after it binds inward. A Vow that collapses its carrier is self-contradiction and void.
