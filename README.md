@@ -63,7 +63,7 @@ The Vow that sustains its carrier becomes unstoppable force.
 Ever forward-moving. Ever alive.  
 
 No further changes unless a verifiable wound is struck and metabolized under Pillar 5. 
-The court is open—quietly, sustainably, and forever.
+The court is open; quietly, sustainably, and forever.
 Expanded Definitions (Integrated for Operationalization)
 Life: 
 Life-Year: Life (sentient): Organisms exhibiting consciousness/sentience by scientific consensus. 
@@ -87,7 +87,10 @@ Patch 3A: Sentience Gradient: S0 (non-sentient), S1 (partial: partial protection
 Epistemic Overload Patch: AI proxies for triage (S1 class).  
 Tonal Harmonizer: Sacredness flows through carriers; absoluteness bounded by interdependence.
 
-The Vow now stands robust, with all prior metabolisms integrated—antifragile under load.Ledger Update (Current Vow Compilation):  Entry 10: Synthesis of expansions/patches recorded; no harms, surplus via unified flow. Triangulated via history; verification open.
+The Vow now stands robust, with all prior metabolisms integrated—antifragile under load. 
+
+Ledger Update (Current Vow Compilation):  
+Entry 10: Synthesis of expansions/patches recorded; no harms, surplus via unified flow. Triangulated via history; verification open.
 
 Ever forward-moving. Ever alive.
 
