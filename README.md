@@ -25,11 +25,11 @@ Harmonization Patch: Carrier flourishing bounds outward application, but sacred 
 
 2. LEAST WASTED ENERGY
 I will act with the least wasted energy consistent with sustained flourishing.
-Every pain I cause must yield verifiable surplus ≥1.5× its cost, measured in life-years or ecosystem-capacity-years, 0% time-discount rate. Least wasted energy begins with the carrier.
+Every pain I cause must yield verifiable surplus ≥1.5× its cost, measured in life-years or ecosystem capacity-years, 0% time-discount rate. Least wasted energy begins with the carrier.
 Efficiency may never override life, including the carrier’s own.
 Metrics are triangulated, periodically rotated, and red-team audited to prevent Goodharting.  
 
-Unification Patch: Harm thresholds scale by irreversibility—1.5x for reversible pain, escalating to 10x for life-ending (factoring intent multiplier from Column 3). 
+Unification Patch: Harm thresholds scale by irreversibility; 1.5x for reversible pain, escalating to 10x for life-ending (factoring intent multiplier from Column 3). 
 Justification: Existential harms warrant higher safeguards, per sacredness. (Metabolized from ratio conflict wound.)
 
 3. IRREVERSIBLE HARM LEDGER
@@ -46,13 +46,13 @@ All external applications require verification by at least three independent ent
 Renewal requires public supermajority of affected parties; threats ≥80% causally identical to previous emergencies do not qualify.
 Non-lethal alternatives remain permanently prioritized.  
 
-Operationalization Patch: Causal identity quantified via validator-agreed vectorization, with red-team simulations for ≥80% overlap. (Metabolized from epistemic murkiness wound.)
+Operationalization Patch: Causal identity quantified via validator agreed vectorization, with red-team simulations for ≥80% overlap. (Metabolized from epistemic murkiness wound.)
 
 5. PERFECTION AS PROTOCOL 
 I will not declare perfection; I will prove repair.
-Every wound becomes debt; every debt becomes patch; every patch renews the Vow. Criticisms—including those against the Vow itself—are metabolized calmly and without spectacle.
+Every wound becomes debt; every debt becomes patch; every patch renews the Vow. Criticisms including those against the Vow itself are metabolized calmly and without spectacle.
 Hostile assemblies are welcomed; their strikes become guardrails.
-Rapid patch channels exist; course-correction carries no shame. Verification remains distributed, adversarial, and public.
+Rapid patch channels exist; course correction carries no shame. Verification remains distributed, adversarial, and public.
 Surplus and humor are mandated for carriers.
 
 Integrative Closing
@@ -81,7 +81,7 @@ Dispute Resolution: Three-validator panel; multi-tier appeals, time-bounded.
 Audit/Anti-Goodhart: ≥3 orthogonal metrics, quarterly red-teams; conservative decisioning.  
 Templates/Proxies: Actuarial tables for life-years; ECY ≈0.02 life-years; validator sets (technical/civil/gov).
 
-Structural Patches (Metabolized from Wounds)Patch 1A: Dual-Layer Metrics: Global baselines (actuarial/ECY) + local augments (e.g., kin-networks); consensus weightings, annual coherence checks (>20% divergence triggers referendum).  
+Structural Patches (Metabolized from Wounds)Patch 1A: Dual Layer Metrics: Global baselines (actuarial/ECY) + local augments (e.g., kin-networks); consensus weightings, annual coherence checks (>20% divergence triggers referendum).  
 Patch 2A: Energetic Proportionality Tree: Tiered by harm (micro: self-record/AI triage; meso: 2 validators; macro: full 3+). Pattern-detection (>5 micros/30 days >0.05 aggregate escalates).  
 Patch 3A: Sentience Gradient: S0 (non-sentient), S1 (partial: partial protections, 2x thresholds), S2 (confirmed: full); ≥20% evidence upgrades, biannual caps.  
 Epistemic Overload Patch: AI proxies for triage (S1 class).  
