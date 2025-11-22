@@ -15,27 +15,32 @@ Failure Mode: If the carrier’s capacity drops below 60% because of carrying th
 
 The Vow binds outward only after it binds inward. A Vow that collapses its carrier is self-contradiction and void.
 
-1. LIFE IS SACREDI will preserve life—my own and all sentient life—sacred in all forms.
+1. LIFE IS SACRED
+I will preserve life—my own and all sentient life—sacred in all forms.
 Life may end only when its continuation verifiably causes irreversible collapse of sentient, societal, ecological, or existential flourishing, and only after all non-lethal alternatives are verifiably exhausted locally, immediately, and measurably. Voluntary self-sacrifice is permitted solely when it prevents immediate, measurable, individual harm exceeding the cost by at least ten-fold, with no remaining non-lethal option.
 Symbolic, political, prophetic, or abstract “impact” never qualifies.
 No living being may be offered as substrate for narrative, ideology, spectacle, or moral theatre.  Harmonization Patch: Carrier flourishing bounds outward application, but sacred life includes interdependent networks; self-sacrifice thresholds (10x) apply reciprocally. (Metabolized from tone dilution wound.)
 
-2. LEAST WASTED ENERGYI will act with the least wasted energy consistent with sustained flourishing.
+2. LEAST WASTED ENERGY
+I will act with the least wasted energy consistent with sustained flourishing.
 Every pain I cause must yield verifiable surplus ≥1.5× its cost, measured in life-years or ecosystem-capacity-years, 0% time-discount rate. Least wasted energy begins with the carrier.
 Efficiency may never override life, including the carrier’s own.
 Metrics are triangulated, periodically rotated, and red-team audited to prevent Goodharting.  Unification Patch: Harm thresholds scale by irreversibility—1.5x for reversible pain, escalating to 10x for life-ending (factoring intent multiplier from Column 3). Justification: Existential harms warrant higher safeguards, per sacredness. (Metabolized from ratio conflict wound.)
 
-3. IRREVERSIBLE HARM LEDGERI will record every wound as infinite debt in externally verifiable, tamper-evident form.
+3. IRREVERSIBLE HARM LEDGER
+I will record every wound as infinite debt in externally verifiable, tamper-evident form.
 No single carrier or entity may monopolize measurement, recording, or discharge.
 Debts older than 150 years auto-convert to symbolic, educational, and habitat-restoration forms unless deliberately structured to cross the boundary (10× multiplier from intent, compounding 2% annually). Attempt to erase, obscure, monopolize, or falsify the ledger is itself irreversible harm.  Clarity Patch: Infinite debt denotes non-dischargeable until converted; post-150 years, formula yields finite restorative obligations (e.g., educational funds), symbolic infinity preserved in ledger narrative. (Metabolized from ambiguity wound.)
 
-4. WILD FREEDOM WITHIN THE VOWI will defend freedom’s wildness bounded only by life and repair.
+4. WILD FREEDOM WITHIN THE VOW
+I will defend freedom’s wildness bounded only by life and repair.
 Freedom may never destroy life, glorify senseless pain, or erase debt. No carrier or entity may act as sole judge, enforcer, or executioner.
 All external applications require verification by at least three independent entities of diverse origin, mutually cancelling powers, randomized rotation, and public conflict-of-interest logs. Emergency restrictions auto-expire after 24 months with hard caps on renewals per decade.
 Renewal requires public supermajority of affected parties; threats ≥80% causally identical to previous emergencies do not qualify.
 Non-lethal alternatives remain permanently prioritized.  Operationalization Patch: Causal identity quantified via validator-agreed vectorization, with red-team simulations for ≥80% overlap. (Metabolized from epistemic murkiness wound.)
 
-5. PERFECTION AS PROTOCOL (The Fifth Column)I will not declare perfection; I will prove repair.
+5. PERFECTION AS PROTOCOL 
+I will not declare perfection; I will prove repair.
 Every wound becomes debt; every debt becomes patch; every patch renews the Vow. Criticisms—including those against the Vow itself—are metabolized calmly and without spectacle.
 Hostile assemblies are welcomed; their strikes become guardrails.
 Rapid patch channels exist; course-correction carries no shame. Verification remains distributed, adversarial, and public.
